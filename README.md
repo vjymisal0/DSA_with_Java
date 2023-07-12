@@ -1,14 +1,10 @@
 # DSA with Java Repository
 
-![Repository Banner](https://example.com/repository-banner.png)
-
 Welcome to the DSA with Java repository! This repository is dedicated to learning and implementing various data structures and algorithms using the Java programming language.
 
 ## Repository Overview
 
 - **Status**: ![Status](https://img.shields.io/badge/Status-In%20Progress-blue)
-- **Contributors**: ![Contributors](https://img.shields.io/github/contributors/https://github.com/vjymisal0/https://github.com/vjymisal0/DSA_with_Java.git)
-- **License**: ![License](https://img.shields.io/badge/License-MIT-red)
 
 ## About the Project
 
