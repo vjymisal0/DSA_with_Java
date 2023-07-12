@@ -7,7 +7,7 @@ Welcome to my OSM project! This project aims to improve the mapping of various l
 ## Project Overview
 
 - **Status**: ![Status](https://img.shields.io/badge/Status-In%20Progress-blue)
-- **Contributors**: ![Contributors](https://img.shields.io/github/contributors/your-username/your-repository)
+- **Contributors**: ![Contributors](https://img.shields.io/github/contributors/vjymisal0/DSA_with_Java)
 - **License**: ![License](https://img.shields.io/badge/License-MIT-red)
 
 ## Map Key
