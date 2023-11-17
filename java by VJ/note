@@ -1,0 +1,28 @@
+scope of variables in java:
+    -Scope of variavles is othing but the life time of variables
+    -Its scope is depend on where in the program that variables are declared
+    -The area of the program where the variable is accessible is called as scope
+    -There are three different types of variables present in java
+
+    1.Instance Variable: 
+    -Instance variable is declared inside 
+    -Instance variables are created when objects are instanciated.
+    -Instance variables allocate seperate memory when object is created
+    -
+
+
+
+
+
+
+    3.Local Variable:
+    -Local Variables declared and used inside the functions
+    -The variables are declared inside the body of methods is known as local variables.
+    -They are not available outside the method.
+    -Local Variables can be declared inside body of methods which is starting from opening curly braces to the closing curly braces
+
+Type casting / Data type conversion
+    -The process of converting one data type to another data type is known as type casting.
+    -Type casting occurs when we want to store value of one data type into variable of another type.
+    -To change entity of one data type to another data type is known as type casting
+    -

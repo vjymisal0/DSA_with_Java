@@ -1,0 +1,21 @@
+//Write a JAVA program to accept two numbers and check whether same or not
+import java.io.*;
+class accept_two_numbers{
+	public static void main(String args[])throws IOException
+	{
+		int a,b;
+		BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
+		System.out.println("Enter First Number: ");
+		a=Integer.parseInt(br.readLine());
+		System.out.println("Enter Second Number: ");
+		b=Integer.parseInt(br.readLine());
+		if(a==b)
+		{
+			System.out.println("Both Numbers are Equal! : "+a+ " = "+b);
+		}
+	    else
+		{
+			System.out.println("Both Numbers are Not Equal! : "+a+" != "+b);
+		}
+	}
+}

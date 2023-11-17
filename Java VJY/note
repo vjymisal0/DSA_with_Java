@@ -1,0 +1,10 @@
+escape sequence characters in java
+\n :  new line
+\t :  horizontal tab
+\v :  vertical tab
+\\ :  \ 
+\? :  ?
+\' :  '
+\" :  "
+\r :  carriage return
+\f :  form feed
