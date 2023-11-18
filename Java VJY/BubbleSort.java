@@ -2,6 +2,10 @@
 public class BubbleSort {
     public static void main(String[] args) {
         int[] arr = { 5, 1, 4, 2, 8 };
+        System.out.println("Unsorted array: ");
+        for (int i = 0; i < arr.length; i++) {
+            System.out.print(arr[i] + " ");
+        }
         int n = arr.length;
         for (int i = 0; i < n - 1; i++) {
             boolean swapped = false;
@@ -19,8 +23,9 @@ public class BubbleSort {
             if (swapped == false)
                 break;
         }
-        System.out.println("Sorted array: ");
+        System.out.println("\nSorted array: ");
         for (int i = 0; i < n; i++)
             System.out.print(arr[i] + " ");
+
     }
 }
