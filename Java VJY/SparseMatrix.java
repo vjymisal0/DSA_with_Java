@@ -34,10 +34,14 @@ class SparseMatrix {
                 }
             }
         }
+        System.out.println("Compact Matrix: "
+                + "Row Column Value"
+                + " ");
 
         for (int i = 0; i < 3; i++) {
             for (int j = 0; j < size; j++) {
-                System.out.printf("%d ", compactMatrix[i][j]);
+                System.out.printf("%d \t ", compactMatrix[i][j]);
+
             }
             System.out.printf("\n");
         }
